@@ -2,8 +2,14 @@
 Project 1
 ## Author : Silvan Kuria Kamau
 My first Project is about me in general.
+
+
 It has an image of me.
-It is divided into 4 areas:.
+
+
+It is divided into 4 areas:
+
+
 ..1.Home.
 ..2.Education.
 ..3.Activities/Hobbies.
