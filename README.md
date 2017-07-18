@@ -10,10 +10,10 @@ It has an image of me.
 It is divided into 4 areas:
 
 
-1.Home
-2.Education
-3.Activities/Hobbies
-4.Contacts
+..1.Home
+..2.Education
+..3.Activities/Hobbies
+..4.Contacts
 
 There are some links to websites of the schools I've been too.
 
@@ -34,5 +34,5 @@ There are some links to websites of the schools I've been too.
 
 
 Then my Contactss
-*My Mobile Number
-*My Slack Name
+..*My Mobile Number
+..*My Slack Name
